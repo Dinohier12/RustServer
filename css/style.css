@@ -38,24 +38,6 @@ header {
 	background-size: cover;
 	color: white;
 }
-header h1 {
-	color: white;
-	font-size: 50pt;
-	text-align: center;
-	position: relative;
-  	top: 30%;
-  	transform: translateY(-50%);
-  	font-family: 'couturebold';
-}
-header p {
-	color: white;
-	font-size: 20pt;
-	text-align: center;
-	position: relative;
-  	top: 26%;
-  	transform: translateY(-50%);
-  	font-family: 'couturebold';
-}
 /*navbar*/
 .icon-bar {
 	background-color: white;
@@ -77,11 +59,26 @@ header p {
 	color: white;
 	padding: 0 20px 0 20px;
 }
+.centerheader {
+	color: white;
+	text-align: center;
+	position: relative;
+  	top: 26%;
+  	transform: translateY(-50%);
+}
+.centerheader h1 {
+	font-size: 60pt;
+	font-family: 'couturebold';
+}
+.centerheader p {
+	font-size: 25pt;
+	font-family: 'couturebold';
+}
 
 /*index*/
 .serverinfo {
 	background-color: black;
-	min-height: 860px;
+	min-height: 660px;
 	width: 100%;
 }
 .container-index {
@@ -96,18 +93,28 @@ header p {
 .row {
 	font-family: 'couturebold';
 }
+
+
+
 /*Donation*/
 .donation {
-	background-color: white;
-	min-height: 660px;
+	background-image: url(../images/airdrop.jpg);
+	background-size: cover;
+	min-height: 80%;
 	width: 100%;
 }
 .container-donation {
-	color: black;
+	color: white;
 	text-align: center;
 }
 .container-donation h1{
 	font-family: 'couturebold';
 	padding-top: 20px;
 	margin-bottom: 40px;
+}
+/*vote*/
+.vote {
+	background-color: black;
+	min-height: 80%;
+	width: 100%;
 }

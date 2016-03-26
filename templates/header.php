@@ -2,6 +2,7 @@
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
+  <meta content="width=device-width, initial-scale=1" name="viewport">
 	<title>RustServer</title>	
 	<link rel="stylesheet" href="css/style.css">
 	<link rel="stylesheet" href="css/bootstrap.css">
@@ -26,14 +27,16 @@
         <li><a href="">Home</a></li>
       </ul>
       <ul class="navbar-right navbar-nav">
-        <li><a href="#">Server info</a></li>
-        <li><a href="#">Donations</a></li>
-        <li><a href="#">Vote</a></li>
+        <li><a href="#serverinfo">Server info</a></li>
+        <li><a href="#donation">Donations</a></li>
+        <li><a href="#vote">Vote</a></li>
         <li><a href="#">Contact</a></li>
       </ul>
     </div>
   </div>
 </nav>
-<h1>Best Server</h1>
-<p>World's best rust server</p>
+<div class="centerheader">
+  <h1>Best Server</h1>
+  <p>World's best rust server</p>
+</div>
 </header>
