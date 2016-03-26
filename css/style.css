@@ -1,0 +1,113 @@
+@font-face {
+    font-family: 'couturebold';
+    src: url('../font/couture-bld-webfont.eot');
+    src: url('../font/couture-bld-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../font/couture-bld-webfont.woff2') format('woff2'),
+         url('../font/couture-bld-webfont.woff') format('woff'),
+         url('../font/couture-bld-webfont.ttf') format('truetype'),
+         url('../font/couture-bld-webfont.svg#couturebold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'couturebold_italic';
+    src: url('../font/couture-bldit-webfont.eot');
+    src: url('../font/couture-bldit-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../font/couture-bldit-webfont.woff2') format('woff2'),
+         url('../font/couture-bldit-webfont.woff') format('woff'),
+         url('../font/couture-bldit-webfont.ttf') format('truetype'),
+         url('../font/couture-bldit-webfont.svg#couturebold_italic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+html {
+	height: 100%;
+}
+body {
+	height: 100%;
+}
+header {
+	background-image: url('../images/background.jpg');
+	height: 100%;
+	background-size: cover;
+	color: white;
+}
+header h1 {
+	color: white;
+	font-size: 50pt;
+	text-align: center;
+	position: relative;
+  	top: 30%;
+  	transform: translateY(-50%);
+  	font-family: 'couturebold';
+}
+header p {
+	color: white;
+	font-size: 20pt;
+	text-align: center;
+	position: relative;
+  	top: 26%;
+  	transform: translateY(-50%);
+  	font-family: 'couturebold';
+}
+/*navbar*/
+.icon-bar {
+	background-color: white;
+}
+.navbar-nav {
+	text-decoration: none;
+	list-style: none;
+}
+.navbar-nav li {
+	color: white;
+	font-family: 'couturebold';
+	font-size: 2pt;
+	text-decoration: none;
+	font-size: 20pt;
+	margin: 20px 0 20px 0;
+}
+.navbar-nav a {
+	font-size: 12pt;
+	color: white;
+	padding: 0 20px 0 20px;
+}
+
+/*index*/
+.serverinfo {
+	background-color: black;
+	min-height: 860px;
+	width: 100%;
+}
+.container-index {
+	color: white;
+	text-align: center;
+}
+.container-index h1{
+	font-family: 'couturebold';
+	padding-top: 20px;
+	margin-bottom: 40px;
+}
+.row {
+	font-family: 'couturebold';
+}
+/*Donation*/
+.donation {
+	background-color: white;
+	min-height: 660px;
+	width: 100%;
+}
+.container-donation {
+	color: black;
+	text-align: center;
+}
+.container-donation h1{
+	font-family: 'couturebold';
+	padding-top: 20px;
+	margin-bottom: 40px;
+}
