@@ -33,7 +33,7 @@ body {
 	height: 100%;
 }
 header {
-	background-image: url('../images/background.jpg');
+	background-image: url('../images/imageedit_10_7451216273.jpg');
 	height: 100%;
 	background-size: cover;
 	color: white;
@@ -58,6 +58,10 @@ header {
 	font-size: 12pt;
 	color: white;
 	padding: 0 20px 0 20px;
+}
+.navbar-nav a:hover {
+	text-decoration: none;
+	color: #D3D3D3;
 }
 .centerheader {
 	color: white;
@@ -87,8 +91,8 @@ header {
 }
 .container-index h1{
 	font-family: 'couturebold';
-	padding-top: 20px;
-	margin-bottom: 40px;
+	padding-top: 40px;
+	margin-bottom: 50px;
 }
 .row {
 	font-family: 'couturebold';
@@ -98,7 +102,7 @@ header {
 
 /*Donation*/
 .donation {
-	background-image: url(../images/airdrop.jpg);
+	background-image: url('../images/imageedit_2_3771220341.jpg');
 	background-size: cover;
 	min-height: 80%;
 	width: 100%;
