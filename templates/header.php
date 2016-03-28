@@ -36,7 +36,8 @@
   </div>
 </nav>
 <div class="centerheader">
-  <h1>Best Server</h1>
-  <p>World's best rust server</p>
+    <h1>Welcome</h1>
+    <p>Welcome to Lorem ipsum</p>
+    <img src="images/icons/white/png/x32/arrows-3.png" alt="">
 </div>
 </header>

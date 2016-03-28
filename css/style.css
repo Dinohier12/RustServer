@@ -34,7 +34,7 @@ body {
 }
 header {
 	background-image: url('../images/imageedit_10_7451216273.jpg');
-	height: 100%;
+	height: 85%;
 	background-size: cover;
 	color: white;
 }
@@ -67,7 +67,7 @@ header {
 	color: white;
 	text-align: center;
 	position: relative;
-  	top: 26%;
+  	top: 30%;
   	transform: translateY(-50%);
 }
 .centerheader h1 {
@@ -75,8 +75,8 @@ header {
 	font-family: 'couturebold';
 }
 .centerheader p {
-	font-size: 25pt;
-	font-family: 'couturebold';
+	font-size: 20pt;
+	font-family: 'arial';
 }
 
 /*index*/
@@ -91,18 +91,27 @@ header {
 }
 .container-index h1{
 	font-family: 'couturebold';
-	padding-top: 40px;
-	margin-bottom: 50px;
+	font-size: 20pt;
+	padding-top: 60px;
+}
+.container-index img {
+	margin-top: 25px;
+}
+.container-index h2 {
+	padding-bottom: 25px;
+	font-size: 12pt;
+}
+.container-index p {
+	font-family: 'arial';
 }
 .row {
 	font-family: 'couturebold';
 }
 
 
-
 /*Donation*/
 .donation {
-	background-image: url('../images/imageedit_2_3771220341.jpg');
+	background-image: url('../images/rad3.jpg');
 	background-size: cover;
 	min-height: 80%;
 	width: 100%;
@@ -113,12 +122,11 @@ header {
 }
 .container-donation h1{
 	font-family: 'couturebold';
+	font-size: 17pt;
 	padding-top: 20px;
-	margin-bottom: 40px;
+}
+.container-donation p {
+	font-family: 'couturebold';
 }
 /*vote*/
-.vote {
-	background-color: black;
-	min-height: 80%;
-	width: 100%;
-}
+
