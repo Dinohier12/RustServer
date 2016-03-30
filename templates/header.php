@@ -38,6 +38,6 @@
 <div class="centerheader">
     <h1>Welcome</h1>
     <p>Welcome to Lorem ipsum</p>
-    <img src="images/icons/white/png/x32/arrows-3.png" alt="">
+    <a href="#serverinfo"><img src="images/icons/white/png/x32/arrows-3.png" alt=""></a>
 </div>
 </header>

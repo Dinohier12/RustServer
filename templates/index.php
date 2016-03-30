@@ -45,25 +45,6 @@
 <div id="donation" class="donation">
 	<div class="container container-donation">
 		<h1>Donations</h1>
-		<h4>Before donating read this.</h4>
-		<b>
-		<p>Please confirm bla bla bla</p>
-		</b>
-		<div class="col-md-4">
-		<img src="images/icons/white/png/x32/business.png">
-		<h1>hi</h1>
-		<ul>
-			<li class="list-group-item list-group-item-info"><b>[VIP] tag</b></li>
-		</ul>
-		</div>
-		<div class="col-md-4">
-		<img src="images/icons/white/png/x32/business.png">
-		<h1>hi</h1>
-		</div>
-		<div class="col-md-4">
-		<img src="images/icons/white/png/x32/business.png">
-		<h1>hi</h1>
-
 	</div>
 </div>
 <div id="vote" class="vote">
