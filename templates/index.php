@@ -1,3 +1,7 @@
+
+
+<a href="javascript:" id="return-to-top"><i class="icon-chevron-up"></i></a>
+
 <div id="serverinfo"class="serverinfo">
 	<div class="container container-index">
 		<h1>Server Information</h1>

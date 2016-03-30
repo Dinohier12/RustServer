@@ -6,9 +6,12 @@
 	<title>RustServer</title>	
 	<link rel="stylesheet" href="css/style.css">
 	<link rel="stylesheet" href="css/bootstrap.css">
+  <link href="//netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.css" rel="stylesheet">
 </head>
 <body>
 <header>
+
+
 <nav class="navbar">
   <div class="container container-fluid">
     <!-- Brand and toggle get grouped for better mobile display -->
@@ -41,3 +44,7 @@
     <a href="#serverinfo"><img src="images/icons/white/png/x32/arrows-3.png" alt=""></a>
 </div>
 </header>
+
+
+
+
